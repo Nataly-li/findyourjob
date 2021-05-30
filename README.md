@@ -6,3 +6,4 @@
 - HTML
 - CSS
 - Bootsrtap v5
+- JavaScript
