@@ -1,8 +1,8 @@
 # findyourjob
-Учебный проект Glo Academy
-Проект выполнила: Наталья Донченко
+Training project GloAcademy
+Implemented by Nataliia Donchenko
 
-## Используются технологии
+## Technologies used:
 - HTML
 - CSS
 - Bootsrtap v5
