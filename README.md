@@ -1,4 +1,4 @@
-# findyourjob — Training project GloAcademy
+# findyourjob — training project GloAcademy
 
 ## Implemented by Nataliia Donchenko
 
