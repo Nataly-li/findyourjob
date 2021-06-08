@@ -1,6 +1,6 @@
-# findyourjob
-Training project GloAcademy
-Implemented by Nataliia Donchenko
+# findyourjob — Training project GloAcademy
+
+## Implemented by Nataliia Donchenko
 
 ## Technologies used:
 - HTML
